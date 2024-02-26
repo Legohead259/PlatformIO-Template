@@ -10,7 +10,7 @@ Welcome to Platformio-Template's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   code/main_cpp
 
 Indices and tables
 ==================
@@ -18,8 +18,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-Docs
-====
-
-.. doxygenfile:: main.cpp
