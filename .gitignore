@@ -1,4 +1,4 @@
-.pioenvs
+.pio
 .travis.yml
 cscope.out
 tags
@@ -7,3 +7,4 @@ doc
 *.pyc
 *.vimc
 Doxygen
+.vscode
