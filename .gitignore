@@ -12,3 +12,4 @@ Doxygen
 .vscode/launch.json
 .vscode/ipch
 .venv
+build
