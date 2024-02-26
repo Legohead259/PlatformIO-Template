@@ -2,9 +2,9 @@ name: documentation
 
 on: 
   push:
-    branches: [master]
+    branches: [docs]
   pull_request:
-    branches: [master]
+    branches: [docs]
   workflow_dispatch:
 
 permissions:
