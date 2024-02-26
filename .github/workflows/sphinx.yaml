@@ -18,7 +18,7 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Install dependencies
         run: |
-          apt-get install doxygen
+          sudo apt-get install -y doxygen 
           pip install sphinx sphinx_rtd_theme myst_parser breathe
       - name: Doxygen build
         run: |
